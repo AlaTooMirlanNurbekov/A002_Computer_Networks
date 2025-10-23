@@ -1,0 +1,9 @@
+Welcome to the slides folder for this course.
+
+Here you will find lecture slides and presentations used in our classes. 
+These slides will help you understand key concepts and follow along with the lectures.
+
+Materials may be updated or added over time, so please visit this page at least once per week to check for the latest slides.
+
+Best regards,
+Mirlan Nurbekov

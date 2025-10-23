@@ -1,0 +1,9 @@
+Welcome to the codes folder for this course.
+
+Here you will find programming examples, sample projects, and code snippets related to the course topics. 
+Use these examples to learn programming concepts and to help complete your practice tasks.
+
+Materials may be updated or added over time, so please visit this page at least once per week to check for the latest code files.
+
+Best regards,
+Mirlan Nurbekov
