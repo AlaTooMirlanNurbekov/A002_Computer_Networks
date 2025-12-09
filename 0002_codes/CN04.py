@@ -1,6 +1,5 @@
 """
 Task CN04 : http request simulator
-
 Description: This task shows how a basic HTTP GET request looks in text form.
 The program builds a simple request using the path and host you provide
 and prints the final formatted request.
@@ -22,13 +21,11 @@ def build_http_get(host, path):
     )
     return request
 
-
 # program entry point
 if __name__ == "__main__":
     host = "example.com"
     path = "/"
-
     http_request = build_http_get(host, path)
-
     print("Generated HTTP GET request:")
     print(http_request)
+
